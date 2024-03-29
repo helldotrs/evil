@@ -1,3 +1,7 @@
+
+eyes.open    = False
+eyes.locked  = True
+
 def ch001_beginnings():
     print("you wake up")
     print("it is cold")

@@ -1,6 +1,7 @@
 
 eyes.open    = False
 eyes.locked  = True
+body.pos     = "lying"
 
 def ch001_beginnings():
     print("you wake up")

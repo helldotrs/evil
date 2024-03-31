@@ -7,7 +7,7 @@ def ch001_beginnings():
     print("you wake up")
     print("it is cold")
     print("your eyes feels wont open")
-    print("your hands are covered in what appers to be mud"
+    print("you feel like your hands are covered in what seem to be mud")
 
 
 def main()
